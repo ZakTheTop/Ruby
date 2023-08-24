@@ -1,0 +1,100 @@
+Mozilla/5.0 (Linux; Android 12; SM-T505 Build/SP1A.210812.016; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.130 Safari/537.36 [FB_IAB/FB4A;FBAV/421.0.0.33.47;]
+TuneIn Radio/26.2.0; iPad14,6; iPadOS/17.0
+Mozilla/5.0 (Linux; Android 11; SM-T515 Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/96.0.4664.104 Safari/537.36 [FB_IAB/FB4A;FBAV/350.1.0.29.106;]
+TuneIn Radio/25.8.0; iPad8,5; iPadOS/16.2
+Mozilla/5.0 (iPad; CPU OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/278.0.557984068 Mobile/15E148 Safari/604.1
+Mozilla/5.0 (Linux; Android 11; PELTDV1029 Build/RP1A.200720.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.5790.166 Safari/537.36
+TuneIn Radio Pro/26.2.0; iPad13,10; iPadOS/16.6
+Mozilla/5.0 (Linux; Android 7.0; BAH-W09 Build/HUAWEIBAH-W09; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Safari/537.36 [FB_IAB/FB4A;FBAV/428.0.0.26.108;]
+Mozilla/5.0 (Linux; arm_64; Android 13; SM-P615) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 YaBrowser/23.7.5.95.01 Safari/537.36
+TuneIn Radio/26.2.0; iPad13,1; iPadOS/16.3.1
+Mozilla/5.0 (iPad; CPU OS 12_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/16F203 [FBAN/FBIOS;FBDV/iPad5,3;FBMD/iPad;FBSN/iOS;FBSV/12.3.1;FBSS/2;FBID/tablet;FBLC/en_US;FBOP/5]
+Mozilla/5.0 (iPad; CPU iPad OS 16_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5.1 Mobile/15E148 Safari/605.1.15 BingSapphire/1.0.410706002
+Mozilla/5.0 (iPad; CPU iPad OS 15_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+Mozilla/5.0 (iPad; CPU OS 16_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/278.0.557984068 Mobile/15E148 Safari/604.1
+TuneIn Radio/26.2.0; iPad14,2; iPadOS/16.6
+Mozilla/5.0 (Linux; Android 10; 100003561) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.129 Safari/537.36
+TuneIn Radio Pro/26.2.0; iPad7,5; iPadOS/16.6
+TuneIn Radio/26.2.0; iPad11,4; iPadOS/16.6
+Mozilla/5.0 (iPad; CPU OS 16_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/278.0.557984068 Mobile/15E148 Safari/604.1
+TuneIn Radio/26.2.0; iPad14,5; iPadOS/16.6
+TuneIn Radio/26.2.0; iPad6,11; iPadOS/16.3.1
+TuneIn Radio/25.8.1; iPad11,6; iPadOS/16.6
+Mozilla/5.0 (iPad; CPU OS 15_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 Safari/605.1.15 GNews iOS/5.82.102
+Mozilla/5.0 (Linux; Android 13; SM-X200 Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Safari/537.36 [FB_IAB/FB4A;FBAV/429.0.0.27.114;]
+Mozilla/5.0 (iPad; CPU OS 15_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/278.0.557984068 Mobile/15E148 Safari/604.1
+AppleCoreMedia/1.0.0.20G75 (iPad; U; CPU OS 16_6 like Mac OS X; en)
+TuneIn Radio/26.2.0; iPad7,3; iPadOS/16.6
+TuneIn Radio/26.2.0; iPad12,1; iPadOS/16.3.1
+Mozilla/5.0 (Linux; Android 8.1.0; SM-T580 Build/M1AJQ) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Safari/537.36 GNews Android/2022148526
+TuneIn Radio/26.2.0; iPad7,4; iPadOS/17.0
+Mozilla/5.0 (iPad; CPU OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/20G75 [FBAN/FBIOS;FBDV/iPad8,5;FBMD/iPad;FBSN/iPadOS;FBSV/16.6;FBSS/2;FBID/tablet;FBLC/nl_NL;FBOP/5]
+Mozilla/5.0 (iPad; CPU OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/20G75 [FBAN/FBIOS;FBDV/iPad11,1;FBMD/iPad;FBSN/iPadOS;FBSV/16.6;FBSS/2;FBID/tablet;FBLC/nl_NL;FBOP/5]
+Mozilla/5.0 (Linux; Android 9; X960_6762_66_P Build/PPR1.180610.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Safari/537.36
+Mozilla/5.0 (iPad; CPU OS 16_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/116.0.5845.118 Mobile/15E148 Safari/604.1
+Mozilla/5.0 (Linux; arm_64; Android 7.0; SM-T813) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 YaBrowser/23.7.3.104.01 Safari/537.36
+Mozilla/5.0 (iPad; CPU OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/20G75 [FBAN/FBIOS;FBDV/iPad12,1;FBMD/iPad;FBSN/iPadOS;FBSV/16.6;FBSS/2;FBID/tablet;FBLC/es_LA;FBOP/5]
+TuneIn Radio/26.2.0; iPad13,17; iPadOS/16.6
+Mozilla/5.0 (iPad; CPU OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/20G75 [FBAN/FBIOS;FBAV/426.0.0.32.54;FBBV/500707684;FBDV/iPad6,12;FBMD/iPad;FBSN/iPadOS;FBSV/16.6;FBSS/2;FBID/tablet;FBLC/it_IT;FBOP/5;FBRV/503773758]
+Mozilla/5.0 (Linux; Android 8.1.0; SM-T585 Build/M1AJQ) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Safari/537.36 GNews Android/2022148526
+Mozilla/5.0 (Linux; Android 11; RMP2102) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Mozilla/5.0 (iPad; CPU OS 15_7_8 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/19H364 [FBAN/FBIOS;FBDV/iPad5,1;FBMD/iPad;FBSN/iPadOS;FBSV/15.7.8;FBSS/2;FBID/tablet;FBLC/fr_FR;FBOP/5];FBNV/1
+Mozilla/5.0 (iPad; CPU OS 15_7_8 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/19H364 [FBAN/FBIOS;FBDV/iPad5,1;FBMD/iPad;FBSN/iPadOS;FBSV/15.7.8;FBSS/2;FBID/tablet;FBLC/fr_FR;FBOP/5]
+Mozilla/5.0 (iPad; CPU OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 Safari/605.1.15 GNews iOS/5.82.102
+Mozilla/5.0 (Linux; Android 13; SM-F936B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/115.0.5790.166 Safari/537.36 [FB_IAB/FB4A;FBAV/428.0.0.26.108;]
+TuneIn Radio/26.1.0; iPad14,2; iPadOS/16.6
+Mozilla/5.0 (Linux; Android 9; KFMAWI Build/PS7327.3329N; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/112.0.5615.197 Safari/537.36 [FB_IAB/FB4A;FBAV/428.0.0.26.108;]
+Mozilla/5.0 (iPad; CPU OS 16_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 Safari/605.1.15 GNews iOS/5.79.203
+Mozilla/5.0 (iPad; CPU OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/20G75 [FBAN/FBIOS;FBDV/iPad13,8;FBMD/iPad;FBSN/iPadOS;FBSV/16.6;FBSS/2;FBID/tablet;FBLC/en_US;FBOP/5]
+AppleCoreMedia/1.0.0.21A5319a (iPad; U; CPU OS 17_0 like Mac OS X; en_gb)
+Mozilla/5.0 (Linux; Android 10; Lenovo TB-X505F Build/QKQ1.191224.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/115.0.5790.166 Safari/537.36 [FB_IAB/FB4A;FBAV/428.0.0.26.108;]
+Mozilla/5.0 (iPad; CPU OS 16_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Mobile/15E148 Safari/604.1 OPT/4.2.1
+Mozilla/5.0 (Linux; Android 11; Lenovo TB-X306F Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/115.0.5790.166 Safari/537.36 [FB_IAB/FB4A;FBAV/428.0.0.26.108;]
+Mozilla/5.0 (Linux; Android 13; SM-F926B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Safari/537.36 [FB_IAB/FB4A;FBAV/428.0.0.26.108;]
+Mozilla/5.0 (Linux; Android 8.1.0) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Safari/537.36 webexplorer/4
+Mozilla/5.0 (Linux; Android 7.1.1; SM-T555 Build/NMF26X) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/101.0.4951.61 Safari/537.36 GNews Android/2022148526
+Mozilla/5.0 (Linux; Android 13; SM-T976B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/115.0.5790.138 Safari/537.36 Home Assistant/2023.8.2-10992 (Android 13; SM-T976B)
+Mozilla/5.0 (Linux; Android 7.0; AGS-W09 Build/HUAWEIAGS-W09; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.196 Safari/537.36 [FB_IAB/FB4A;FBAV/426.0.0.26.50;]
+Mozilla/5.0 (Linux; Android 8.1.0; SM-T585 Build/M1AJQ; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/115.0.5790.138 Safari/537.36 [FB_IAB/FB4A;FBAV/425.0.0.22.49;]
+Mozilla/5.0 (iPad; CPU OS 15_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/269.0.541759355 Mobile/15E148 Safari/604.1
+Mozilla/5.0 (Linux; Android 13; SM-F936B Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Safari/537.36; eDevlet Mobil Agent (edk-5034)
+TuneIn Radio/26.2.0; iPad8,5; iPadOS/16.5.1
+TuneIn Radio/26.2.0; iPad8,11; iPadOS/16.6
+TuneIn Radio/26.2.0; iPad11,3; iPadOS/16.6
+Mozilla/5.0 (Linux; arm_64; Android 7.1.1; Lenovo TB-8504X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 YaBrowser/23.5.1.714 Safari/537.36
+TuneIn Radio/26.2.0; iPad13,1; iPadOS/16.6
+Mozilla/5.0 (iPad; CPU OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/20G75 [FBAN/FBIOS;FBDV/iPad7,5;FBMD/iPad;FBSN/iPadOS;FBSV/16.6;FBSS/2;FBID/tablet;FBLC/en_US;FBOP/5]
+TuneIn Radio/26.2.0; iPad11,7; iPadOS/16.6
+Mozilla/5.0 (Linux; Android 13; SM-P613 Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/115.0.5790.168 Safari/537.36 [FB_IAB/FB4A;FBAV/428.0.0.26.108;]
+Mozilla/5.0 (iPad; CPU OS 16_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 YaBrowser/23.7.6.435.11 Mobile/15E148 Safari/604.1
+Mozilla/5.0 (Linux; Android 9; KFKAWI Build/PS7327.3329N; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/112.0.5615.197 Safari/537.36 [FB_IAB/FB4A;FBAV/428.0.0.26.108;]
+Mozilla/5.0 (Linux; Android 7.0; PMT3101_4G Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.5790.138 Safari/537.36
+Mozilla/5.0 (Linux; Android 7.1.2; XPLUS Build/XPLUS; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/115.0.5790.166 Safari/537.36
+TuneIn Radio Pro/26.2.0; iPad12,1; iPadOS/16.6
+Mozilla/5.0 (Linux; Android 11; SM-T515 Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/115.0.5790.166 Safari/537.36 [FB_IAB/FB4A;FBAV/428.0.0.26.108;]
+Mozilla/5.0 (Linux; Android 8.1.0; SM-T595 Build/M1AJQ; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Safari/537.36 [FB_IAB/FB4A;FBAV/428.0.0.26.108;]
+Mozilla/5.0 (iPad; CPU OS 14_7_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/18G82 [FBAN/FBIOS;FBDV/iPad6,12;FBMD/iPad;FBSN/iOS;FBSV/14.7.1;FBSS/2;FBID/tablet;FBLC/en_US;FBOP/5]
+TuneIn Radio/26.2.0; iPad7,5; iPadOS/17.0
+Mozilla/5.0 (Linux; Android 12; Lenovo TB125FU Build/SP1A.210812.016) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/115.0.5790.166 Safari/537.36 GNews Android/2022150842
+Mozilla/5.0 (iPad; CPU OS 15_7_8 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/19H364 [FBAN/FBIOS;FBDV/iPad5,4;FBMD/iPad;FBSN/iPadOS;FBSV/15.7.8;FBSS/2;FBID/tablet;FBLC/nl_NL;FBOP/5]
+TuneIn Radio Pro/26.0.0; iPad14,2; iPadOS/16.2
+Mozilla/5.0 (Linux; Android 7.1.1; SM-T555 Build/NMF26X) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/115.0.5790.166 Safari/537.36 GNews Android/2022067731
+Mozilla/5.0 (iPad; CPU OS 12_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 [FBAN/MessengerForiOS;FBDV/iPad6,12;FBMD/iPad;FBSN/iOS;FBSV/12.3.1;FBSS/2;FBCR/Swisscom;FBID/tablet;FBLC/fr_FR;FBOP/5]
+TuneIn Radio Pro/25.6.0; iPad6,8; iPadOS/16.6
+Mozilla/5.0 (Linux; Android 8.1.0; SM-T580 Build/M1AJQ; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Safari/537.36 [FB_IAB/FB4A;FBAV/428.0.0.26.108;]
+Mozilla/5.0 (Linux; Android 9; 1EY4G Build/PPR1.180610.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Safari/537.36 [FB_IAB/FB4A;FBAV/428.0.0.26.108;]
+Mozilla/5.0 (Linux; Android 6.0.1; Lenovo YT3-X90X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
+Mozilla/5.0 (iPad; CPU OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/20G75 [FBAN/FBIOS;FBDV/iPad12,2;FBMD/iPad;FBSN/iPadOS;FBSV/16.6;FBSS/2;FBID/tablet;FBLC/nb_NO;FBOP/5]
+TuneIn Radio/24.2.1; iPad8,3; iPadOS/16.6
+Mozilla/5.0 (Linux; Android 7.1.2; SM-G960N Build/N2G48B) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/86.0.4240.198 Safari/537.36
+Mozilla/5.0 (Linux; Android 9; TK-E101GC Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Safari/537.36
+Mozilla/5.0 (Linux; Android 10; Lenovo TB-X306F Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/115.0.5790.166 Safari/537.36 GNews Android/2022148526
+Mozilla/5.0 (Linux; Android 10; Lenovo TB-X505F Build/QKQ1.191224.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Safari/537.36
+TuneIn Radio/26.2.0; iPad11,1; iPadOS/16.6
+Mozilla/5.0 (Linux; Android 11; SM-T505 Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/115.0.5790.168 Safari/537.36 [FB_IAB/FB4A;FBAV/428.0.0.26.108;]
+Mozilla/5.0 (iPad; CPU OS 15_7_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/19H349 [FBAN/FBIOS;FBAV/416.0.0.36.85;FBBV/477935859;FBDV/iPad5,4;FBMD/iPad;FBSN/iPadOS;FBSV/15.7.6;FBSS/2;FBID/tablet;FBLC/it_IT;FBOP/5;FBRV/480944964]
+Mozilla/5.0 (Linux; arm_64; Android 12; M40 Pro_ROW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 YaBrowser/23.7.5.95.01 Safari/537.36
+Mozilla/5.0 (Linux; Android 8.1.0; SM-T580 Build/M1AJQ; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Safari/537.36
+Mozilla/5.0 (Linux; Android 9; H96 Max RK3318 Build/PPR2.181005.003.A1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Safari/537.36
+Mozilla/5.0 (iPad; CPU OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/20G75 [FBAN/FBIOS;FBDV/iPad8,1;FBMD/iPad;FBSN/iPadOS;FBSV/16.6;FBSS/2;FBID/tablet;FBLC/en_US;FBOP/5]
+TuneIn Radio/26.2.0; iPad6,3; iPadOS/16.6
